@@ -1,2 +1,1 @@
 # newsocial
-Eduardo Rozo
